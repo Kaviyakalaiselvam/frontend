@@ -1,0 +1,56 @@
+//index.html
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> practices</title>
+       <link rel="stylesheet" href="APJ.CSS">
+    </head>
+    <body> 
+            <div class="four">
+                <h1>
+                   A.P.J.ABDUL KALAM 
+                </h1>
+                <h2>Dr. APJ Abdul Kalam, full name Avul Pakir Jainulabdeen Abdul Kalam, was an Indian scientist and politician who served as the 11th President of India from 2002 to 2007. He was born on October 15, 1931, in Rameswaram, Tamil Nadu, India, and passed away on July 27, 2015.</h2>
+            </div>
+            <div class="three">
+                <h3 class="one"><b>About the legend</b></h3>
+                <div class ="two">
+                   <ul><li> <p>
+                        Lorem, ipsum dolor sit amet consectetur   laudantium consequatur nisi cumque eos blanditiis?
+                    </li></p>
+                    <p><li>Lorem ipsum dolor sit amet.</li></p>
+                    <p><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, eius?</li></p>
+                    <p><B>MISSILE MAN</B></p>
+                    <p><li>Lorem ipsum dolor sit amet consectetur,<B>adipisicing elit.</B>Vero sequi delectus suscipit.</li></p>
+                    <p><li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li></p>
+                    <p><li> ipsum dolor sit amet consectetur.</li></p>
+                </ul>
+                </div>
+            </div>
+            
+        
+    </body>
+</html>
+
+//.css
+body{
+    background-color: aquamarine;
+}
+.one{
+    font-size: 40px;
+    font:rgb(59, 34, 80);
+    text-align: center;
+}
+.three{
+    margin :60px;
+    background-color: rgb(46, 203, 220);
+    padding-left: 40px;
+    box-shadow: 10px 10px rgb(39, 95, 194);
+    
+}
+.four{
+    color:rgb(11, 11, 11);
+    text-align: center;
+    
+}
